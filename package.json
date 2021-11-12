@@ -1,0 +1,11 @@
+{
+  "name": "@chrishontoir/use-fetch",
+  "version": "1.3.0",
+  "main": "index.js",
+  "repository": "git@github.com:chrishontoir/use-fetch.git",
+  "author": "chrishontoir <chrishontoir@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
